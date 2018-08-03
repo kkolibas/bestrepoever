@@ -1,3 +1,2 @@
 # bestrepoever
-<help>
-<majorhelp>
+list(select id from account)
