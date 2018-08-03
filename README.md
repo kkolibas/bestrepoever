@@ -1,2 +1,3 @@
 # bestrepoever
 <help>
+<majorhelp>
